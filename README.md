@@ -65,12 +65,14 @@ Evidencias requeridas:
 
 Ejercicio 3 (10 puntos): Circuito funcional en placa fenólica
 En su placa fenólica, realizará todos sus puntos de los orificios de ella, colocando un alambre galvanizado, cobre o aluminio, simulando la soldadura de un componente electrónico en la placa.
+
 Evidencias requeridas:
 - Demostración al docente de su placa. (5 puntos)
 - Fotografía en repositorio (5 puntos)
 
 Ejercicio 4 (10 puntos): Figura 2D o 3D soldada
 Construye una figura 2D o 3D (libre) con 40 puntos de soldadura, integrando componentes electrónicos básicos.
+
 Evidencias requeridas:
 - Exposición al docente de su figura (5 puntos)
 - Fotografía en repositorio (5 puntos)
