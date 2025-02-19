@@ -4,7 +4,7 @@
 
 | Nombre | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Numero de control |  | 1223100435 |
+| Numero de control | 1222100474 | 1223100435 |
 | Grupo | GDS0652 | GDS0652 |
 
 
@@ -46,7 +46,7 @@ Evidencias requeridas:
 | Aspecto | Detalle |
 |--------------|--------------|
 | Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)| 
-| Código documentado en GitHub. |  |
+| Código documentado en GitHub. | https://github.com/FanyRM/IEU1-IoT/blob/main/flows%20(3).json |
 | Video ||
 | Diagrama de conexión ||
 | Código | https://github.com/FanyRM/IEU1-IoT/blob/main/Conexi%C3%B3n_sensor_Tonny.py |
@@ -90,10 +90,10 @@ Evidencias requeridas:
 | Aspecto | Comentario | 
 |--------------|--------------|
 | Nombre del alumno  a evaluar | Manzano Villafaña Gerardo |
-| Número de control |  |
-| Positivo |  |
-| Negativo |  |
-| A mejorar |  |
+| Número de control | 1222100474 |
+| Positivo | En una persona que siempre esta dispuesta a ayudar, esta en completa disposición de siempre ofrecerse para ayudar cuando el trabajo en equipo lo requiera. Es amable y cooperativo incluso en las compras de materíal |
+| Negativo | Requiere practicar un poco más su programación |
+| A mejorar | Puede mejorar su comunicación, y sus habilidades técnicas |
 
 
 | Aspecto | Comentario | 
