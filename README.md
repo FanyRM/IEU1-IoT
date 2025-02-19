@@ -59,8 +59,8 @@ Evidencias requeridas:
 
 | Alumno | Videos |
 |--------------|--------------|
-| Gerardo Manzano Villafaña | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link | 
-| Celeste Estefanía Ramírez Matehuala | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link |
+| Gerardo Manzano Villafaña | https://drive.google.com/drive/u/0/folders/11TJLyQF7GqTaaLNQAS6y55EHyDsoyT5K | 
+| Celeste Estefanía Ramírez Matehuala | https://drive.google.com/drive/u/0/folders/11TJLyQF7GqTaaLNQAS6y55EHyDsoyT5K |
 
 
 ## Soldadura (Individual)
