@@ -14,7 +14,8 @@
 
 | Integrante | Evaluación netacad |
 |--------------|--------------|
-| Gerardo Manzano Villafaña |  | 
+| Gerardo Manzano Villafaña | ![image](https://github.com/user-attachments/assets/abe5d4ec-9a08-41f8-8986-0d70431f4ceb)
+  | 
 | Celeste Estefanía Ramírez Matehuala | ![image](https://github.com/user-attachments/assets/e1793cf4-f434-46e0-93fa-2a5957fbc718)|
 
 # Parte Práctica
@@ -82,7 +83,8 @@ Evidencias requeridas:
 
 | Aspecto | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Figura |  | ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
+| Figura | ![Tortuga](https://github.com/user-attachments/assets/be7fe98f-8250-468d-81d2-d47742eaf89b)
+ | ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
 | Placa |  | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
 
 # Parte Socioafectiva
@@ -100,9 +102,9 @@ Evidencias requeridas:
 |--------------|--------------|
 | Nombre del alumno  a evaluar | Ramirez Matehuala Celeste Estefania |
 | Número de control | 1223100435 |
-| Positivo |  |
-| Negativo |  |
-| A mejorar |  |
+| Positivo | Es una persona muy diciplinada y cumplida tiene un enfoque directo y es dificil distraerla de sus objetivos por lo cual resulta una compañera perfecta para realizar el trabajo en equipo, aporta información e imparte su conocimiento para la constante mejora del equipo, es amable y paciente.  |
+| Negativo | Suele estresarse por ciertas cuestiones y en esos casos se bloquea a la busqueda de una solución temporal  |
+| A mejorar | Se puede mejorar la comunicación  |
 
 
 
