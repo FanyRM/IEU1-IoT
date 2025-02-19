@@ -14,8 +14,7 @@
 
 | Integrante | Evaluación netacad |
 |--------------|--------------|
-| Gerardo Manzano Villafaña | ![image](https://github.com/user-attachments/assets/abe5d4ec-9a08-41f8-8986-0d70431f4ceb)
-  | 
+| Gerardo Manzano Villafaña | ![image](https://github.com/user-attachments/assets/abe5d4ec-9a08-41f8-8986-0d70431f4ceb)| 
 | Celeste Estefanía Ramírez Matehuala | ![image](https://github.com/user-attachments/assets/e1793cf4-f434-46e0-93fa-2a5957fbc718)|
 
 # Parte Práctica
