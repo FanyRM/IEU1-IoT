@@ -15,16 +15,18 @@
 | Integrante | Evaluación netacad |
 |--------------|--------------|
 | Gerardo Manzano Villafaña |  | 
-| Celeste Estefanía Ramírez Matehuala | ![image](https://github.com/user-attachments/assets/e1793cf4-f434-46e0-93fa-2a5957fbc718)
- |
+| Celeste Estefanía Ramírez Matehuala | ![image](https://github.com/user-attachments/assets/e1793cf4-f434-46e0-93fa-2a5957fbc718)|
 
 # Parte Práctica
 
 ## Actuadores y almacenamiento de datos (Pareja)
 
 PARTE PRÁCTICA (60 PUNTOS).
-(PAREJAS)Ejercicio 1: Almacenamiento de Datos (15 puntos)
+(PAREJAS)
+Ejercicio 1: Almacenamiento de Datos (15 puntos)
+
 Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en:
+
 - Base de datos PostgreSQL mediante Node-RED.
 
 Evidencias requeridas:
