@@ -43,12 +43,11 @@ Evidencias requeridas:
 
 | Aspecto | Detalle |
 |--------------|--------------|
-| Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)
- | 
+| Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)| 
 | Código documentado en GitHub. |  |
 | Video ||
 | Diagrama de conexión ||
-| Código ||
+| Código | https://github.com/FanyRM/IEU1-IoT/blob/main/Conexi%C3%B3n_sensor_Tonny.py |
 
 ## Videos Demostrativos (Individual)
 
