@@ -82,9 +82,10 @@ Evidencias requeridas:
 
 | Aspecto | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Figura | ![Tortuga](https://github.com/user-attachments/assets/be7fe98f-8250-468d-81d2-d47742eaf89b)
- | ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
-| Placa |  | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
+| Figura | ![Tortuga](https://github.com/user-attachments/assets/be7fe98f-8250-468d-81d2-d47742eaf89b)|
+| ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
+| Placa | ![image](https://github.com/user-attachments/assets/8758f463-4e12-49ba-8564-a047a04a0bf6)
+ | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
 
 # Parte Socioafectiva
 
