@@ -1,0 +1,45 @@
+[
+    {
+        "id": "91c08321d2c4125f",
+        "type": "postgresql",
+        "z": "567153203a11f536",
+        "name": "",
+        "query": "SELECT * FROM sensor_details;",
+        "postgreSQLConfig": "ef157743cd3ef5d6",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 570,
+        "y": 320,
+        "wires": [
+            [
+                "2ddaec3459d51ec5"
+            ]
+        ]
+    },
+    {
+        "id": "ef157743cd3ef5d6",
+        "type": "postgreSQLConfig",
+        "name": "aiot",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": 5432,
+        "portFieldType": "num",
+        "database": "aiot",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "applicationName": "",
+        "applicationNameType": "str",
+        "max": 10,
+        "maxFieldType": "num",
+        "idle": 1000,
+        "idleFieldType": "num",
+        "connectionTimeout": 10000,
+        "connectionTimeoutFieldType": "num",
+        "user": "utng",
+        "userFieldType": "str",
+        "password": "1234",
+        "passwordFieldType": "str"
+    }
+]
