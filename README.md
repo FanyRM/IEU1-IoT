@@ -80,8 +80,8 @@ Evidencias requeridas:
 
 | Aspecto | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Figura |  |  |
-| Placa |  |  |
+| Figura |  | ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
+| Placa |  | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
 
 # Parte Socioafectiva
 
