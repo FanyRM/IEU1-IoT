@@ -47,8 +47,7 @@ Evidencias requeridas:
 |--------------|--------------|
 | Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)| 
 | Código documentado en GitHub. | https://github.com/FanyRM/IEU1-IoT/blob/main/flows%20(3).json |
-| Video ||
-| Diagrama de conexión ||
+| Video | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link |
 | Código | https://github.com/FanyRM/IEU1-IoT/blob/main/Conexi%C3%B3n_sensor_Tonny.py |
 
 ## Videos Demostrativos (Individual)
@@ -60,8 +59,8 @@ Evidencias requeridas:
 
 | Alumno | Videos |
 |--------------|--------------|
-| Gerardo Manzano Villafaña |  | 
-| Celeste Estefanía Ramírez Matehuala |  |
+| Gerardo Manzano Villafaña | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link | 
+| Celeste Estefanía Ramírez Matehuala | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link |
 
 
 ## Soldadura (Individual)
@@ -82,10 +81,8 @@ Evidencias requeridas:
 
 | Aspecto | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Figura | ![Tortuga](https://github.com/user-attachments/assets/be7fe98f-8250-468d-81d2-d47742eaf89b)|
-| ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
-| Placa | ![image](https://github.com/user-attachments/assets/8758f463-4e12-49ba-8564-a047a04a0bf6)
- | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
+| Figura | ![Tortuga](https://github.com/user-attachments/assets/be7fe98f-8250-468d-81d2-d47742eaf89b)| ![Medusa](https://github.com/user-attachments/assets/99f565e4-151f-447b-907d-31c660de838b) |
+| Placa | ![image](https://github.com/user-attachments/assets/8758f463-4e12-49ba-8564-a047a04a0bf6) | ![placaFen](https://github.com/user-attachments/assets/836ccad2-84f9-4992-a532-0d3a37c7ec82) |
 
 # Parte Socioafectiva
 
