@@ -15,7 +15,8 @@
 | Integrante | Evaluación netacad |
 |--------------|--------------|
 | Gerardo Manzano Villafaña |  | 
-| Celeste Estefanía Ramírez Matehuala |  |
+| Celeste Estefanía Ramírez Matehuala | ![image](https://github.com/user-attachments/assets/e1793cf4-f434-46e0-93fa-2a5957fbc718)
+ |
 
 # Parte Práctica
 
@@ -42,7 +43,8 @@ Evidencias requeridas:
 
 | Aspecto | Detalle |
 |--------------|--------------|
-| Diagrama de conexión. |  | 
+| Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)
+ | 
 | Código documentado en GitHub. |  |
 | Video ||
 | Diagrama de conexión ||
