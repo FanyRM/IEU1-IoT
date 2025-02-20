@@ -45,7 +45,7 @@ Evidencias requeridas:
 
 | Aspecto | Detalle |
 |--------------|--------------|
-| Diagrama de conexión. | ![image](https://github.com/user-attachments/assets/707451e8-f350-4b57-9f29-df10a0fb10e2)| 
+| Diagrama de conexión. | ![Conexion](https://github.com/user-attachments/assets/e57ec773-5a72-42ad-8072-8c777bc64515)| 
 | Código documentado en GitHub. | https://github.com/FanyRM/IEU1-IoT/blob/main/flows%20(3).json |
 | Video | https://drive.google.com/file/d/1HUkEm4LgdAEj_xryW4qo90Ia_p8K00RA/view?usp=drive_link |
 | Código | https://github.com/FanyRM/IEU1-IoT/blob/main/Conexi%C3%B3n_sensor_Tonny.py |
